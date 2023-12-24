@@ -24,7 +24,12 @@ This user-friendly system tackles the challenge of managing diverse hospital dat
   
 - **Database Implementation:** Executed SQL scripts based on the designed models to create the database structure.
 - **User Interface Creation:** Utilized Microsoft PowerApps to create a flexible and user-friendly interface.  For a detailed visual representation of the proposed application screens, please refer to the attached 'medical_rocket_screens.pdf' file.
-  
+
+
+## Execution Flow for DBMS Files:
+Table Creation Script: Run Table_Creation_Script.sql to generate the database structure.
+Data Logic Scripts: Execute Data_Logic_scripts.sql to implement data logic and functionalities.
+Values Insertion Scripts: Use Values_Insert_Scripts.sql to populate the database with initial or sample data values.
 
 ## Implemented User Stories
 ### User Story 1: Doctor Prescribing Lab Tests
