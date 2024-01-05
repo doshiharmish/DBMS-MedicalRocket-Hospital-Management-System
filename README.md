@@ -25,12 +25,6 @@ This user-friendly system tackles the challenge of managing diverse hospital dat
 - **Database Implementation:** Executed SQL scripts based on the designed models to create the database structure.
 - **User Interface Creation:** Utilized Microsoft PowerApps to create a flexible and user-friendly interface.  For a detailed visual representation of the proposed application screens, please refer to the attached 'medical_rocket_screens.pdf' file.
 
-
-## Execution Flow for DBMS Files:
-1. Table Creation Script: Run Table_Creation_Script.sql to generate the database structure.
-2. Data Logic Scripts: Execute Data_Logic_scripts.sql to implement data logic and functionalities.
-3. Values Insertion Scripts: Use Values_Insert_Scripts.sql to populate the database with initial or sample data values.
-
 ## Implemented User Stories
 ### User Story 1: Doctor Prescribing Lab Tests
 Using Power Apps, we created a user story allowing doctors to prescribe lab tests. Here's the process:
@@ -67,3 +61,8 @@ Patients can conveniently view their lab results through Power Apps, supported b
 ## Assumptions
 - **Universal Insurance Coverage:** All patients admitted to the hospital are assumed to possess comprehensive insurance coverage, ensuring comprehensive medical support.
 - **Medication Procurement:** We have assumed that all prescribed medications are exclusively sourced from the hospital's store. This ensures consistent and controlled access to medicines for patient treatment.
+
+## Execution Flow for DBMS Files:
+1. Table Creation Script: Run Table_Creation_Script.sql to generate the database structure.
+2. Data Logic Scripts: Execute Data_Logic_scripts.sql to implement data logic and functionalities.
+3. Values Insertion Scripts: Use Values_Insert_Scripts.sql to populate the database with initial or sample data values.
