@@ -27,9 +27,9 @@ This user-friendly system tackles the challenge of managing diverse hospital dat
 
 
 ## Execution Flow for DBMS Files:
-Table Creation Script: Run Table_Creation_Script.sql to generate the database structure.
-Data Logic Scripts: Execute Data_Logic_scripts.sql to implement data logic and functionalities.
-Values Insertion Scripts: Use Values_Insert_Scripts.sql to populate the database with initial or sample data values.
+1. Table Creation Script: Run Table_Creation_Script.sql to generate the database structure.
+2. Data Logic Scripts: Execute Data_Logic_scripts.sql to implement data logic and functionalities.
+3. Values Insertion Scripts: Use Values_Insert_Scripts.sql to populate the database with initial or sample data values.
 
 ## Implemented User Stories
 ### User Story 1: Doctor Prescribing Lab Tests
